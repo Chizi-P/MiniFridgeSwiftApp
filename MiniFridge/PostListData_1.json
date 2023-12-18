@@ -1,0 +1,34 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "avatar": "XPL6oiK.jpg",
+            "vip": false,
+            "name": "chizi",
+            "date": "2020-01-01 00:00",
+            "isFollowed": false,
+            "text": "第一貼，看看我的頭像！",
+            "images": [
+                "XPL6oiK.jpg"
+            ],
+            "commentCount": 94,
+            "likeCount": 87,
+            "isLiked": true
+        },
+        {
+            "id": 2,
+            "avatar": "XPL6oiK.jpg",
+            "vip": true,
+            "name": "TTTTTT",
+            "date": "2020-01-02 09:34",
+            "isFollowed": true,
+            "text": "第二貼，看看我的頭像！",
+            "images": [
+                "XPL6oiK.jpg"
+            ],
+            "commentCount": 0,
+            "likeCount": 0,
+            "isLiked": false
+        }
+    ]
+}
